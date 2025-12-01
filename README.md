@@ -8,7 +8,10 @@ a saved item feature
 saved product cards pushed into the saved item list
 
 ```
-
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/my-vue-cli-app.git
 
 ### Project setup
 ```
