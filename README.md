@@ -10,10 +10,12 @@ saved product cards pushed into the saved item list
 ```
 ## Installation
 1. Clone the repository:
-```bash
+```
+bash
 git clone https://github.com/username/my-vue-cli-app.git
 
 ### Project setup
+
 ```
 git clone <repo-url>
 cd <repo>
@@ -25,12 +27,12 @@ npm install
 ```
 npm run serve
 ```
-
+```
 ##### Compiles and minifies for production
 ```
 npm run build
-```
 
+```
 #### Interface ScreenShot
 1.<img width="1889" height="989" alt="Screenshot 2025-12-01 032255" src="https://github.com/user-attachments/assets/18af8ee9-b607-4c1f-9f39-14ebc3a7b1ce" />
 
